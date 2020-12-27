@@ -1,0 +1,7 @@
+{
+	"token": "discord_bot_token",
+    "prefix": "!",
+    "version": "1.0.0",
+    "botlogs": "channel_id",
+    "banlogs": "channel_id"
+}

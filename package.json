@@ -1,0 +1,40 @@
+{
+  "name": "sentinel",
+  "version": "1.4.1",
+  "description": " ",
+  "main": " ",
+  "dependencies": {
+    "@discordjs/collection": "^0.1.6",
+    "@discordjs/form-data": "^3.0.1",
+    "@keyv/sqlite": "^2.0.2",
+    "@ksoft/api": "^3.1.9",
+    "abort-controller": "^3.0.0",
+    "chalk": "^4.1.0",
+    "dblapi.js": "^2.4.1",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.3",
+    "fs": "^0.0.1-security",
+    "humanize-duration": "^3.25.0",
+    "keyv": "^4.0.3",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-pre-gyp": "^0.16.0",
+    "sentinel-api": "^0.0.1",
+    "sentry-djs": "^1.0.3",
+    "setimmediate": "^1.0.5",
+    "sqlite3": "^5.0.0",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
