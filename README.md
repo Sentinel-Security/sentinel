@@ -1,8 +1,8 @@
 
 # Sentinel
-[![license](https://img.shields.io/github/license/Sentinel-Security/sentinel?color=blue&label=License)
+![license](https://img.shields.io/github/license/Sentinel-Security/sentinel?color=blue&label=License)
 
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=Maintained)
+![maintained](https://img.shields.io/maintenance/yes/2020?label=Maintained)
 
 ## Sentinel Discord Bot (Open-Sourced)
 The Sentinel Discord Bot (Open-Sourced) is designed to help developers interested in creating their own global ban bots with the basic functions. We will not provide exact replicas of Sentinel, rather a skeleton of the bot and its core functions. 
