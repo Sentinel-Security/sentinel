@@ -1,6 +1,6 @@
 {
-  "name": "sentinel",
-  "version": "1.4.1",
+  "name": "global-ban-bot",
+  "version": "1.0.0",
   "description": " ",
   "main": " ",
   "dependencies": {
@@ -32,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": " "
+    "url": "https://github.com/Sentinel-Security/sentinel"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Sentinel-Security",
+  "license": "MIT"
 }
