@@ -1,5 +1,5 @@
 {
-	"token": "discord_bot_token",
+    "token": "discord_bot_token",
     "prefix": "!",
     "version": "1.0.0",
     "botlogs": "channel_id",
