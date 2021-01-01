@@ -79,12 +79,6 @@ let setStatus = setInterval(function () {
     }, 500);
 });
 
-bot.on("ready", () => {
-    fs.readdir("./API", (err, names) => {
-        names.forEach(name => require(`./API/${name}`));
-    })
-})
-
 bot.on("message", async (message) => {
     if (message.channel.type == "dm") return;
     let prefix = config.prefix;
