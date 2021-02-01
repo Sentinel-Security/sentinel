@@ -13,4 +13,7 @@ The Sentinel Discord Bot (Open-Sourced) is designed to help developers intereste
 Sentinel utilizes SQLite Databases with the [Keyv](https://github.com/lukechilds/keyv/) adapter.
 
 ## Assistance
-If you need assistance with the code, feel free to visit our [Discord Server](https://sntl.cc/discord)
+If you need assistance with the code, feel free to visit our [Discord Server](https://sntl.cc/discord?ref=github)
+
+## Global Ban Network Membership
+If you are interested in joining the Sentinel Global Ban Network, please complete this [membership form](https://sntl.cc/dbnm?ref=github)
